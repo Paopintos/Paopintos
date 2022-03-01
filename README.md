@@ -1,4 +1,4 @@
-[![Hi-there-i-m-pao.png](https://i.postimg.cc/L8Tgf6b8/Hi-there-i-m-pao.png)](https://postimg.cc/0zzN1xvT)
+[![Hi-there-im-pao.png](https://i.postimg.cc/gjMNzkD0/Hi-there-im-pao.png)](https://postimg.cc/4H9zwGjC)
 
 <p align="center">I’m currently studying at Hack Academy, where I'm dedicating 9 hours a day in learning JavaScript (ES6+), Node.js, React, SQL, MongoDB, Git and a few more technologies. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
 
