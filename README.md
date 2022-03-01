@@ -5,4 +5,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Interests: Animals, Nature, Videogames, CrossFit.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paopintos&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paopintos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
