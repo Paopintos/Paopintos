@@ -14,6 +14,12 @@
 <h2 align="center">📊 Github stats</h2>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paopintos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paopintos&layout=compact&theme=radical)](https://github.com/Paopintos/github-readme-stats)
-  </div>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paopintos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paopintos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  <br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paopintos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <br>
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Paopintos&bg_color=131222&color=A8FDF6&line=F6418E&point=F7D747)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+</div>
