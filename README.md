@@ -2,8 +2,6 @@
 
 <p align="center">I’m currently studying at Hack Academy, where I'm dedicating 9 hours a day in learning JavaScript (ES6+), Node.js, React, SQL, MongoDB, Git and a few more technologies. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
 
-You can reach me in [Linkedin - Paola Pintos](https://www.linkedin.com/in/paolapintos/) , Email - paopintos2000@gmail.com or [Instagram - @paoo.pintos](https://www.instagram.com/paoo.pintos/) .
-
 ### 🛠️ Technologies & Tools
 
 <!-- Mac -->
