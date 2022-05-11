@@ -1,6 +1,6 @@
 <img src="./img/Hi there im pao.png" />
 
-<p align="center">I’m currently studying at Hack Academy, where I'm dedicating 9 hours a day in learning JavaScript (ES6+), Node.js, React, SQL, MongoDB, Git and a few more technologies. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
+<p align="center">I recently finished studying in a Coding Bootcamp at Hack Academy, which is an extremely practical course of 3 months and full-time dedication, where i spent at least 9 hours a day to learn and practice technologies such as Javascript (ES6+), Node.js, React, SQL, MongoDB and Git. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
 
 <div align="center">
 
