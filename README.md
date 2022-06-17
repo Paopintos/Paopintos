@@ -1,6 +1,6 @@
 ![Hi there im pao](https://user-images.githubusercontent.com/91914581/167958710-e7613054-e600-473b-aef1-dad918c3ef51.png)
 
-<p align="center">On April 2022 i finished a Coding Bootcamp at Hack Academy, which is an extremely practical course of 3 months and full-time dedication, where i spent at least 9 hours a day to learn and practice technologies such as Javascript (ES6+), Node.js, React, SQL, MongoDB and Git. I also signed up for the Bachelor's degree of Systems at ORT university, which I will be starting in August. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
+<p align="center">On April of this year i finished a Coding Bootcamp at Hack Academy, which is an extremely practical course of 3 months and full-time dedication, where i spent at least 9 hours a day to learn and practice technologies such as Javascript (ES6+), Node.js, React, SQL, MongoDB and Git. I also signed up for the Bachelor's degree of Systems at ORT university, which I will be starting in August. My pronouns are She/Her, and some of my interests are: Animals, Nature, Videogames and CrossFit.</p>
 
 <div align="center">
 
