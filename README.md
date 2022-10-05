@@ -1,11 +1,12 @@
 ![Hi there im pao](https://user-images.githubusercontent.com/91914581/167958710-e7613054-e600-473b-aef1-dad918c3ef51.png)
 
+<p align="center">Currently working at Qualabs</p>
 <p align="center">I used to study veterinary medicine, but little by little I got closer to the world of programming and I realized my true passion. That's why I decided to take an extremely practical 3-month, full-time course at Hack Academy, where I spent at least 9 hours a day learning technologies like JavaScript (ES6+), Node.js, React, SQL, MongoDB, and Git. I'm also studying a Bachelor of Systems at the ORT university.</p>
-<p>My level of English is advanced, having passed the CAE exam, I also did an assistant administrative course in Taller de Informática and I studied one year of Agronomy. Some interests I have are animals, videogames (such as League of Legends) and CrossFit.</p>
+<p align="center">My level of English is advanced, having passed the CAE exam, I also did an assistant administrative course in Taller de Informática and I studied one year of Agronomy. Some interests I have are animals, videogames (such as League of Legends) and CrossFit.</p>
 
 <div align="center">
 
-[Linkedin - Paola Pintos](https://www.linkedin.com/in/paolapintos/) · Email - paopintos2000@gmail.com · [Instagram - @paoo.pintos](https://www.instagram.com/paoo.pintos/?hl=es-la)
+[Linkedin - Paola Pintos](https://www.linkedin.com/in/paolapintos/) · [Email - paopintos2000@gmail.com](mailto:paopintos2000@gmail.com)
 
   </div>
 
@@ -31,5 +32,5 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paopintos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Paopintos&bg_color=131222&color=A8FDF6&line=F6418E&point=F7D747)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+<!--   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Paopintos&bg_color=131222&color=A8FDF6&line=F6418E&point=F7D747)](https://github.com/ashutosh00710/github-readme-activity-graph)   -->
 </div>
